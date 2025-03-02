@@ -1,0 +1,15 @@
+Dog Breed Identifier Features
+
+This project is an advanced Dog Breed Identification System
+that utilizes deep learning to classify different dog breeds 
+from images.The model is built using MobileNetV2 from TensorFlow
+Hub, ensuring fast and accurate predictions. The application 
+allows users to upload images of dogs and receive instant breed
+identification results.
+
+Additional features such as user authentication (login & signup) and a dog food
+recommendation system are planned for future updates. The authentication system 
+will allow users to create accounts and save their past searches, while the dog
+food recommendation feature will provide personalized food suggestions based on
+the identified breed. These enhancements will improve the overall user experience
+and add more value to the application.
