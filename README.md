@@ -18,16 +18,14 @@ Recognize over 100 dog breeds by drag and drop an image using Tensorflow.js and 
 - [Biome](https://biomejs.dev/)
 - [React-Router v7](https://reactrouter.com/)
 
-## 💻Demo
 
-[https://dogai.netlify.com](https://dogai.netlify.com)
 
 ## 🚀Quick start
 
 ### Installation
 
 ```bash
-$ git clone git@github.com:jeferson-sb/dogAI.git && cd dogAI
+$ git clone https://github.com/Vishnuvarman007/dogify-Ai.git && cd dogAI
 $ npm install
 ```
 
@@ -67,5 +65,4 @@ Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel da
 Secondary:
 J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li and L. Fei-Fei, ImageNet: A Large-Scale Hierarchical Image Database. IEEE Computer Vision and Pattern Recognition (CVPR), 2009.
 
-## 📝License
 
