@@ -34,7 +34,7 @@
     "globals": "^15.14.0",
     "happy-dom": "^16.6.0",
     "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^22.0.0",
+    "stylelint-config-standard": "^37.0.0",
     "taze": "^18.3.1",
     "vite": "^6.0.5",
     "vitest": "^2.1.8"
