@@ -1,0 +1,42 @@
+{
+  "name": "dogai",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "lint:css": "stylelint '**/*.css'",
+    "lint": "biome lint src/*",
+    "format": "biome format --write src/*",
+    "upgrade": "taze"
+  },
+  "dependencies": {
+    "@teachablemachine/image": "^0.8.5",
+    "@tensorflow/tfjs": "^1.3.1",
+    "clsx": "^2.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-dropzone": "^14.3.5",
+    "react-router-dom": "^7.1.5",
+    "vite-plugin-pwa": "^0.21.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.6.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "globals": "^15.14.0",
+    "happy-dom": "^16.6.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^22.0.0",
+    "taze": "^18.3.1",
+    "vite": "^6.0.5",
+    "vitest": "^2.1.8"
+  }
+}
